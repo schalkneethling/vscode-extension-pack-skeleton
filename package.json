@@ -21,7 +21,7 @@
     "included-extensions"
   ],
   "devDependencies": {
-    "prettier": "^3.0.3",
+    "prettier": "^3.3.1",
     "vsce": "^2.15.0"
   }
 }
